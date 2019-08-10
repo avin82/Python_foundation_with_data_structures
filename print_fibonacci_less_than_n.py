@@ -1,5 +1,7 @@
 # PROGRAM print_fibonacci_less_than_n:
 
+# Write a program to take a number N input from user and print all numbers less than N which are part of fibonacci series.
+
 ##########################
 # Print Fibonacci Module #
 ##########################
