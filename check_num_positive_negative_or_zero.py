@@ -32,3 +32,4 @@ def check_number():
 
 print(check_number())
 print("1 stands for positive, -1 stands for negative and 0 stands for zero.\n")
+# END.

@@ -18,7 +18,6 @@ def is_it_prime():
 		divisor = divisor - 1
 	# ENDWHILE;
 	return is_prime
-
 # END IsItPrime.
 
 
@@ -32,6 +31,5 @@ if is_it_prime():
 else:
 	print("It is not a prime number.")
 # ENDIF;
-
 # END.
 

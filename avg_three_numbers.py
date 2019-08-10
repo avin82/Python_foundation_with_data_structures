@@ -18,3 +18,4 @@ def find_avg():
 
 avg = find_avg()
 print("Average of user inputted numbers is {}".format(avg))
+# END.

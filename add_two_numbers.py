@@ -18,3 +18,4 @@ def add_numbers():
 
 sum = add_numbers()
 print("The sum of inputted numbers is {}".format(sum))
+# END.

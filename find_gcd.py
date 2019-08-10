@@ -26,3 +26,4 @@ def find_gcd():
 ################
 
 print("Gcd of user inputted numbers is {}".format(find_gcd()))
+# END.

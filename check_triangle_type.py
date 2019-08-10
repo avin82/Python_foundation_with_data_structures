@@ -33,3 +33,4 @@ def check_type_of_triangle():
 
 check_type_of_triangle()
 print("{} represents equilateral triangle, {} represents isosceles triangle, and {} represents scalene triangle.".format(1, 0, -1))
+# END.
