@@ -15,7 +15,7 @@ Write a program to take a number input from user. Let's say the user inputs the 
 
 
 def print_triangle_pattern():
-	n = int(input("Input the number of rows which is equal to the number of columns to print the desired triangle pattern: \n"))
+	n = int(input("Input the number of rows to print the desired triangle pattern: \n"))
 	i = 1
 	while i <= n:
 	# DO
