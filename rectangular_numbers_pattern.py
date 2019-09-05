@@ -33,7 +33,7 @@ Sample Output:
 
 
 def print_rectangular_numbers_pattern():
-	n = int(input("Input number of rows to print the desired rectangular number pattern"))
+	n = int(input("Input number of rows to print the desired rectangular number pattern: \n"))
 	for i in range(1, n + 1):
 	# DO
 		temp = n
