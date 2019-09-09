@@ -52,7 +52,7 @@ def push_zeroes_to_end(li):
 		li[leftover_zero_pos] = 0
 	# ENDFOR;
 	return li
-# END puah_zeroes_to_end.
+# END push_zeroes_to_end.
 
 
 ################
